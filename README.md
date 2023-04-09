@@ -1,2 +1,4 @@
 # Classification-and-enumeration-of-lattice-polygons-in-a-disc
-Complementary data for the paper "Classification and enumeration of lattice polygons in a disc" (The list of convex lattice polygons.)
+This is the resulting dataset of the paper 
+
+Liu Q, Zhang Y, Cai Z. Classification and enumeration of lattice polygons in a disc[J]. arXiv preprint arXiv:2303.14899, 2023.
